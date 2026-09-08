@@ -1,0 +1,1 @@
+Upload package.json and bootstrap.mjs to the root of an empty GitHub repository. UPLOAD-FIRST.txt is optional. Vercel will run bootstrap.mjs automatically during install and recreate the app/lib/tests/supabase folders before building.
